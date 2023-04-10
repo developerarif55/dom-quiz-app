@@ -7,6 +7,8 @@ const questions = [
         { text: 'none of them', correct: false },
       ]
     },
+
+    
     {
       question: 'console.log("2" + 1 + 1)',
       answers: [
